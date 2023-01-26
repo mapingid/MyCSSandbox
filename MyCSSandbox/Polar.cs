@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace MyCSSandbox
 {
-  class Polar : Point
+  class Polar : Point2D
   {
     public Polar( int _r, int _t )
     {
