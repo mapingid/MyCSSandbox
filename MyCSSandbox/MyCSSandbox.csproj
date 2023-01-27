@@ -72,18 +72,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cartesian.cs" />
-    <Compile Include="GCTest.cs" />
-    <Compile Include="Point2D.cs" />
-    <Compile Include="Point2DClass.cs" />
-    <Compile Include="Point2DStruct.cs" />
-    <Compile Include="Polar.cs" />
+    <Compile Include="Classes31.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="MyCSSandbox_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ReadMe.txt" />
