@@ -6,9 +6,13 @@ D:\MyCSSandbox\MyCSSandbox\MyCSSandbox\bin\Debug\MyCSSandbox.pdb
 D:\MyCSSandbox\MyCSSandbox\MyCSSandbox\obj\Debug\MyCSSandbox.exe
 D:\MyCSSandbox\MyCSSandbox\MyCSSandbox\obj\Debug\MyCSSandbox.pdb
 D:\MyCSSandbox\MyCSSandbox\bin\Debug\MyCSSandbox.exe.config
+D:\MyCSSandbox\MyCSSandbox\bin\Debug\MyCSSandbox.exe.manifest
+D:\MyCSSandbox\MyCSSandbox\bin\Debug\MyCSSandbox.application
 D:\MyCSSandbox\MyCSSandbox\bin\Debug\MyCSSandbox.exe
 D:\MyCSSandbox\MyCSSandbox\bin\Debug\MyCSSandbox.pdb
 D:\MyCSSandbox\MyCSSandbox\obj\Debug\MyCSSandbox.csproj.AssemblyReference.cache
 D:\MyCSSandbox\MyCSSandbox\obj\Debug\MyCSSandbox.csproj.CoreCompileInputs.cache
+D:\MyCSSandbox\MyCSSandbox\obj\Debug\MyCSSandbox.exe.manifest
+D:\MyCSSandbox\MyCSSandbox\obj\Debug\MyCSSandbox.application
 D:\MyCSSandbox\MyCSSandbox\obj\Debug\MyCSSandbox.exe
 D:\MyCSSandbox\MyCSSandbox\obj\Debug\MyCSSandbox.pdb
