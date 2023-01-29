@@ -11,6 +11,7 @@ namespace MyCSSandbox
   {
     static void Main( string[] args )
     {
+      EnumClass.main();
       /*
       int x = 2;
       Classes31.PercobaanOut(out x);

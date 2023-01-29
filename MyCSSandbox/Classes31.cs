@@ -14,11 +14,15 @@ namespace MyCSSandbox
     {
       //biasanya digunakan untuk mereset value ke nilai default
       // x = x + 12; //ini error jika menggunakan out 
+      
       x = 12;
+      //nilainya dikembalikan ke variabel yang masuk di X
     }
     public static void PercobaanRef( ref int x )
     {
+      
       x = x * x; //kalo seperti ini pake "ref" bukan "out"
+      //nilainya dikembalikan ke variabel yang masuk di X
     }
     public static void PercobaanIn( in int x )
     {
