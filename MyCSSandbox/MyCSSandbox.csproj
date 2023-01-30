@@ -74,6 +74,7 @@
   <ItemGroup>
     <Compile Include="Classes31.cs" />
     <Compile Include="EnumClass.cs" />
+    <Compile Include="GenericClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

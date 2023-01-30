@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MyCSSandbox
 {
   class EnumClass
   {
-
+    [Flags]
     enum FoodMenu
     {
       NasiGoreng = 1,
@@ -19,8 +15,15 @@ namespace MyCSSandbox
     public static void main()
     {
 
+
       //GET THE ENUM INTEGER FROM NAME
       FoodMenu menu = FoodMenu.Bakwan;
+      Console.WriteLine( menu ); //return Bakwan
+
+      menu |= FoodMenu.NasiGoreng;
+      Console.WriteLine( menu ); //return Bakwan
+
+
       Console.WriteLine( menu ); //return Bakwan
       Console.WriteLine( (int)menu ); // kalo mau return angka harus di cast ke int
 
@@ -32,7 +35,7 @@ namespace MyCSSandbox
       //GET ENUM FROM STRING
       string datain = "Bakwan";
       FoodMenu GetMenu;
-      bool isFound = Enum.TryParse(datain , out GetMenu);
+      bool isFound = Enum.TryParse( datain, out GetMenu );
       Console.WriteLine( isFound ); // kalo gaada false , otherwise true
       Console.WriteLine( GetMenu ); // kalo gaada 0
 

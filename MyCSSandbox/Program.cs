@@ -1,17 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
 
 namespace MyCSSandbox
 {
+
   class Program
   {
     static void Main( string[] args )
     {
       EnumClass.main();
+
+      //GenericClass.main();
+
       /*
       int x = 2;
       Classes31.PercobaanOut(out x);
